@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Hemang Ranjan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">⚡️Learning something new everyday⚡️</h3>
+<p align="center"><img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"></p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Hemang417&label=Visitors%20count&color=0e75b6&style=plastic" alt="Hemang417" /> </p>
 
