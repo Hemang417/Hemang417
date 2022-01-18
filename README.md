@@ -24,7 +24,7 @@
   <br/>
 </p>
 	
-- 🌎 Here is my [Portfolio](https://hemang417.github.io/Portfolio/)
+- 🌎 [Here is my Portfolio](https://hemang417.github.io/Portfolio/)
 
 - 🔭 I’m currently working on a project called [BlockChain Chat App](https://github.com/Hemang417/Web-3_Chat_DApp)
 
