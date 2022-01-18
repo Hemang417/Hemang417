@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Hemang Ranjan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">If life is a comic strip then I AM SPONGEBOB</h3>
+<h3 align="center">🌈If life is a comic strip then I AM SPONGEBOB🧽</h3>
 
 <p align="center"><img src="https://i.gifer.com/origin/c6/c6cfcb9a5dce1b1a669cb670ecb776e6_w200.gif"></p>
 
