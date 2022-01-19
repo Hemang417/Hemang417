@@ -7,7 +7,7 @@
 
 ## 📊 Github Stats 
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Hemang417&theme=dark" alt="Hemang417"/></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Hemang417&theme=great-gatsby" alt="Hemang417"/></p>
 
 <p> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
