@@ -13,8 +13,8 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Hemang's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Hemang417&show_icons=true&count_private=true&theme=dark" height="175px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hemang417&show_icons=true&locale=en&layout=compact&theme=dark" alt="Hemang417" height="175px"/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Hemang's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Hemang417&show_icons=true&count_private=true&theme=tokyonight" height="175px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hemang417&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Hemang417" height="175px"/>
   <br/>
   </p>
 </p>
