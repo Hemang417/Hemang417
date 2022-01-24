@@ -24,7 +24,7 @@
   <br/>
    <a href="https://github.com/Hemang417"><img alt="Hemang's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Hemang417&theme=react-dark" alt="Hemang417"</a>
   <br/>
-</p> -->
+</p> --><br/>
 	
 - 🌎 [Here is my Portfolio](https://hemang417.github.io/Portfolio/)
 
