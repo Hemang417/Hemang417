@@ -19,12 +19,12 @@
   </p>
 </p>
 
-<p>
+<!-- <p>
   <summary><b>⚡ Recent GitHub Activity </b></summary>
   <br/>
    <a href="https://github.com/Hemang417"><img alt="Hemang's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Hemang417&theme=react-dark" alt="Hemang417"</a>
   <br/>
-</p>
+</p> -->
 	
 - 🌎 [Here is my Portfolio](https://hemang417.github.io/Portfolio/)
 
