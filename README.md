@@ -3,7 +3,7 @@
 
 <p align="center"><img src="https://i.gifer.com/origin/c6/c6cfcb9a5dce1b1a669cb670ecb776e6_w200.gif"></p>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Hemang417&label=Visitors%20count&color=0e75b6&style=plastic" alt="Hemang417" /> </p>
+<p align="center"><img src="https://profile-counter.glitch.me/Hemang417/count.svg" alt-"Hemang417"/></p>
 
 ## 📊 Github Stats 
 
