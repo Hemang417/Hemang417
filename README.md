@@ -28,7 +28,7 @@
 	
 - 🌎 [Here is my Portfolio](https://hemang417.github.io/Portfolio/)
 
-- 🔭 I’m currently working on a project called [BlockChain Chat App](https://github.com/Hemang417/Web-3_Chat_DApp)
+- 🔭 I’m currently working on a project called [Next.js Website]()
 
 - 🌱 I’m currently learning **Flutter, Node.js and BlockChain**
 
