@@ -30,11 +30,11 @@
 
 - 🔭 I’m currently working on a project called [Next.js Website](https://github.com/Hemang417/Next-Js-Meetup-App)
 
-- 🌱 I’m currently learning **Flutter, Node.js and BlockChain**
+- 🌱 I’m currently learning **Flutter, Next.js and BlockChain**
 
 - 💬 Ask me about **Front-end Developement, Back-end Developement and PWA's**
 
-- 📫 How to reach me **hemangranjan417@gmail.com**
+- 📫 Reach me at **hemangranjan417@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
